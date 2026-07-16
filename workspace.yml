@@ -1,0 +1,16 @@
+opencollection: 1.0.0
+info:
+  name: "Disburse"
+  type: workspace
+
+collections:
+  - name: "Contract Domain"
+    path: "collections/Contract Domain"
+  - name: "Ipartner"
+    path: "collections/Ipartner"
+  - name: "iDisburse"
+    path: "collections/iDisburse"
+
+specs:
+
+docs: ''
